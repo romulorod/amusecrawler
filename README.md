@@ -15,6 +15,7 @@ What it does on the background:
 - If it's a valid https image link it will send 20 emails each with one image to your friends email set on --email on run command, using your email set on .env file.
 
 * It searchs google images using the label you specified on run command
+* 
 </details>
 <hr />
 
@@ -30,6 +31,7 @@ Pre-Requisites:
 <br />
 
 https://myaccount.google.com/lesssecureapps?rapt=AEjHL4P7O6aYHw-8Dnyx8mocOmj_GtEJMUjo1Cka19i41rcwTj0c2tK5xtttK6dDtNtC3aaXw4rmNrfeFUScqRhYbbWKcW75rg
+
 </details>
 <hr />
 
@@ -66,6 +68,7 @@ How to install:
 - Label is the text you wanna search on the web. You can split it using "," as in "cars, cats, dogs" or spaces as in "apple tree".
 
 - Email is your friends email you wanna spam.
+- 
 </details>
 <hr />
 
@@ -77,6 +80,7 @@ How to Execute:
 <br />
 
 ```node crawl --label="cars, cats, apple tree" --email="myfriend@email.com"```
+
 </details>
 
 <br />
