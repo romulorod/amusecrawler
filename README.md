@@ -14,8 +14,8 @@ What it does on the background:
 
 - If it's a valid https image link it will send 20 emails each with one image to your friends email set on --email on run command, using your email set on .env file.
 
-* It searchs google images using the label you specified on run command
-* 
+- It searchs google images using the label you specified on run command
+
 </details>
 <hr />
 
@@ -68,13 +68,13 @@ How to install:
 - Label is the text you wanna search on the web. You can split it using "," as in "cars, cats, dogs" or spaces as in "apple tree".
 
 - Email is your friends email you wanna spam.
-- 
+
 </details>
 <hr />
 
 <details>
 <summary>
-How to Execute:
+How to Run:
 </summary>
 
 <br />
